@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gilmotanoc.github.io/sitemap
+Sitemap: https://gilmotanoc.github.io/app/sitemap
+Sitemap: https://gilmotanoc.github.io/assets/sitemap
+Sitemap: https://gilmotanoc.github.io/css/sitemap
+Sitemap: https://gilmotanoc.github.io/includes/sitemap
+Sitemap: https://gilmotanoc.github.io/item/sitemap
+Sitemap: https://gilmotanoc.github.io/src/sitemap
